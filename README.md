@@ -1,2 +1,2 @@
-# C-Programming-Fundamentals-I
+# C-Programming-Fundamentals
 Solved C Problems 
